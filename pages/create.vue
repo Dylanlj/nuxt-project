@@ -1,6 +1,6 @@
 <template>
   <div >
-    <h1> events</h1> 
+    <h1> create an event</h1>
   </div>
 </template>
 
@@ -9,3 +9,4 @@ export default {
   name: 'IndexPage',
 }
 </script>
+ 
